@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "EnvironmentOverrides",
+        "repositoryURL": "https://github.com/nalexn/EnvironmentOverrides",
+        "state": {
+          "branch": null,
+          "revision": "3e47b5fc04e6dc50797c25dfca2137b65b85c355",
+          "version": "0.0.2"
+        }
+      },
+      {
+        "package": "ViewInspector",
+        "repositoryURL": "https://github.com/nalexn/ViewInspector",
+        "state": {
+          "branch": null,
+          "revision": "ec943ed718cd293b95f17a2b81e8917d6ed70752",
+          "version": "0.3.8"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

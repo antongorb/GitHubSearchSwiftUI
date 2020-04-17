@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "089EEB97-F898-42A9-9573-752E1FEECC0D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2558162F-EA61-41FD-92F0-4D9D6AED96C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CountriesSwiftUI/UI/Screens/CountryDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8742812C-4539-4B4C-8760-2530D8B3074F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CountriesSwiftUI/UI/Screens/CountryDetails.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "init(repo:details:forks:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "738FC21F-F845-4A69-89C6-449619D42FEC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CountriesSwiftUI/Interactors/CountriesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "loadForks(repoBind:repo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9A28700-6122-4AE5-A50D-53EEBC14A192"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CountriesSwiftUI/Utilities/WebRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "requestJSON(httpCodes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE62A03A-EF1C-4858-A65B-6A12882FF103"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CountriesSwiftUI/Interactors/CountriesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "loadCountries(query:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EACFDDA-A5BC-4E99-AF01-595CE7A1443A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CountriesSwiftUI/UI/Screens/CountriesList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDA0AE2F-3A09-44D3-AD5F-FD9CA585FADC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CountriesSwiftUI/UI/Screens/CountriesList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "161A2460-2DA7-4CC1-8CD7-5BDC3AFE97B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CountriesSwiftUI/Interactors/CountriesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "loadCountries(query:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "392C6FCD-EC7C-47E4-84F9-0CE2C6ED9EA7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CountriesSwiftUI/Interactors/CountriesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "loadCountries(query:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "392C6FCD-EC7C-47E4-84F9-0CE2C6ED9EA7 - 2ee13d6701dba0e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CountriesSwiftUI.RealCountriesInteractor.loadCountries(query: Swift.String) -&gt; ()"
+                  moduleName = "CountriesSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toxa/Downloads/clean-architecture-swiftui-master/CountriesSwiftUI/Interactors/CountriesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "954">
+               </Location>
+               <Location
+                  uuid = "392C6FCD-EC7C-47E4-84F9-0CE2C6ED9EA7 - da3d25141f6331e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CountriesSwiftUI.Loadable&lt;Swift.Array&lt;CountriesSwiftUI.GithubRepo&gt;&gt;) -&gt; () in CountriesSwiftUI.RealCountriesInteractor.loadCountries(query: Swift.String) -&gt; ()"
+                  moduleName = "CountriesSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toxa/Downloads/clean-architecture-swiftui-master/CountriesSwiftUI/Interactors/CountriesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "122">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE3A9CDB-5061-4165-AD16-6DF7ACACBCE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CountriesSwiftUI/UI/Screens/CountriesList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "loadedView(_:showSearch:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DE3A9CDB-5061-4165-AD16-6DF7ACACBCE2 - b52f52676f28a4ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CountriesSwiftUI.CountriesList.(loadedView in _34653A2801565B819903AD4FB31A1398)(_: Swift.Array&lt;CountriesSwiftUI.GithubRepo&gt;, showSearch: Swift.Bool) -&gt; some"
+                  moduleName = "CountriesSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toxa/Downloads/clean-architecture-swiftui-master/CountriesSwiftUI/UI/Screens/CountriesList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "365">
+               </Location>
+               <Location
+                  uuid = "DE3A9CDB-5061-4165-AD16-6DF7ACACBCE2 - e56389be7cdbdddf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;CountriesSwiftUI.SearchBar&gt;, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;CountriesSwiftUI.GithubRepo&gt;, Swift.Int, SwiftUI.HStack&lt;SwiftUI.NavigationLink&lt;CountriesSwiftUI.CountryCell, &lt;&lt;opaque return type of CountriesSwiftUI.CountriesList.(detailsView in _34653A2801565B819903AD4FB31A1398)(country: CountriesSwiftUI.GithubRepo) -&gt; some&gt;&gt;.0&gt;&gt;&gt;&gt;)&gt; in CountriesSwiftUI.CountriesList.(loadedView in _34653A2801565B819903AD4FB31A1398)(_: Swift.Array&lt;CountriesSwiftUI.GithubRepo&gt;, showSearch: Swift.Bool) -&gt; some"
+                  moduleName = "CountriesSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toxa/Downloads/clean-architecture-swiftui-master/CountriesSwiftUI/UI/Screens/CountriesList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "365">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0C6BC97-635B-402F-A625-BBEE3A55702C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../CountriesSwiftUI/UI/Screens/CountriesList.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "notRequestedView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E0C6BC97-635B-402F-A625-BBEE3A55702C - 7aa1d1635ba62c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CountriesSwiftUI.CountriesList.(notRequestedView in _34653A2801565B819903AD4FB31A1398).getter : some"
+                  moduleName = "CountriesSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toxa/Downloads/clean-architecture-swiftui-master/CountriesSwiftUI/UI/Screens/CountriesList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "279">
+               </Location>
+               <Location
+                  uuid = "E0C6BC97-635B-402F-A625-BBEE3A55702C - 757972269a4b9ce5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(CountriesSwiftUI.SearchBar, SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;CountriesSwiftUI.GithubRepo&gt;, Swift.Int, SwiftUI.HStack&lt;SwiftUI.NavigationLink&lt;CountriesSwiftUI.CountryCell, &lt;&lt;opaque return type of CountriesSwiftUI.CountriesList.(detailsView in _34653A2801565B819903AD4FB31A1398)(country: CountriesSwiftUI.GithubRepo) -&gt; some&gt;&gt;.0&gt;&gt;&gt;&gt;)&gt; in CountriesSwiftUI.CountriesList.(notRequestedView in _34653A2801565B819903AD4FB31A1398).getter : some"
+                  moduleName = "CountriesSwiftUI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/toxa/Downloads/clean-architecture-swiftui-master/CountriesSwiftUI/UI/Screens/CountriesList.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
